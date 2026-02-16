@@ -1,0 +1,31 @@
+Employee_ID,Name,Age,Department,Salary,Years_Experience,Performance_Score,City,Join_Date,Remote_Work
+1001,  John Doe  ,28,Engineering,75000,3,4,Dhaka,2020-01-15,Yes
+1002,ALICE SMITH,32,hr,85000,5,5,dhaka,15/01/2019,yes
+1003,Bob Jones,-5,engineering,50000,2,8,Dhaka,Jan 15 2021,Y
+1001,  John Doe  ,28,Engineering,75000,3,4,Dhaka,2020-01-15,Yes
+1004,Sarah Smith,thirty,HR Department,$120000,7,4,DHAKA,2021-03-10,True
+1005,Mike Wilson,45,Engineering,1000000000,25,3,Chittagong,2018-07-20,1
+1006,Emma Davis,150,hr,,15,4,Sylhet,2030-05-15,yes
+1007,  Tom Brown,29,N/A,65000,-2,5,dhaka,2022-01-01,Maybe
+1008,Lisa Anderson,26,Engineering,70000,4,4,Dhaka,10/05/2020,No
+1009,David Lee,35,HR,90000,8,0,Chittagong,2019-06-12,no
+1010,Maria Garcia,42,engineering,95000,12,5,Sylhet,2015-11-30,N
+1002,ALICE SMITH,32,hr,85000,5,5,dhaka,15/01/2019,yes
+1011,James Wilson,25years,HR Department,60000,,3,DHAKA,Dec 01 2021,False
+1012,Patricia Martinez,38,Engineering,88000,10,4,Dhaka,2017-08-22,0
+1013,Robert Taylor,29,hr,72000,5,4,dhaka,2020-02-14,yes
+1014,Jennifer Brown,31,,78000,6,5,Chittagong,15/03/2020,Yes
+1015,  Michael Johnson  ,44,Engineering,110000,50,3,Sylhet,2016-04-05,TRUE
+1016,Linda Davis,27,HR,67000,4,10,Dhaka,2021-07-18,y
+1003,Bob Jones,-5,engineering,50000,2,8,Dhaka,Jan 15 2021,Y
+1017,William Anderson,36,engineering,10,9,4,DHAKA,2018-09-25,No
+1018,Barbara Thomas,33,HR Department,82000,7,4,dhaka,25/11/2019,yes
+1019,Richard Jackson,29,Engineering,76000,5,,Chittagong,2020-05-30,Yes
+1020,Susan White,40,hr,92000,11,5,Sylhet,2016-12-10,1
+1021,Joseph Harris,28,Engineering,74000,4,3,Dhaka,2021-01-20,no
+1022,Jessica Martin,35,HR,86000,8,4,DHAKA,Aug 15 2019,Yes
+1025,Thomas Rodriguez,37,Engineering,50000,10,4,Sylhet,2018-03-12,yes
+1005,Mike Wilson,45,Engineering,1000000000,25,3,Chittagong,2018-07-20,1
+1026,Nancy Martinez,29,hr,73000,5,5,Dhaka,2021-04-22,No
+1027,Christopher Lee,33,Engineering,84000,7,0,DHAKA,2019-07-08,YES
+1007,  Tom Brown,29,N/A,65000,-2,5,dhaka,2022-01-01,Maybe

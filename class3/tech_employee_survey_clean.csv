@@ -1,0 +1,18 @@
+Employee_ID,Name,Age,Department,Salary,Years_Experience,Performance_Score,City,Join_Date,Remote_Work
+1001,John Doe,28.0,Engineering,75000,3.0,4.0,Dhaka,2020-01-15,True
+1002,ALICE SMITH,32.0,HR,85000,5.0,5.0,Dhaka,2019-01-15,True
+1008,Lisa Anderson,26.0,Engineering,70000,4.0,4.0,Dhaka,2020-10-05,False
+1009,David Lee,35.0,HR,90000,8.0,0.0,Chittagong,2019-06-12,False
+1010,Maria Garcia,42.0,Engineering,95000,12.0,5.0,Sylhet,2015-11-30,False
+1012,Patricia Martinez,38.0,Engineering,88000,10.0,4.0,Dhaka,2017-08-22,False
+1013,Robert Taylor,29.0,HR,72000,5.0,4.0,Dhaka,2020-02-14,True
+1014,Jennifer Brown,31.0,Engineering,78000,6.0,5.0,Chittagong,2020-03-15,True
+1016,Linda Davis,27.0,HR,67000,4.0,10.0,Dhaka,2021-07-18,True
+1018,Barbara Thomas,33.0,HR,82000,7.0,4.0,Dhaka,2019-11-25,True
+1019,Richard Jackson,29.0,Engineering,76000,5.0,4.0,Chittagong,2020-05-30,True
+1020,Susan White,40.0,HR,92000,11.0,5.0,Sylhet,2016-12-10,True
+1021,Joseph Harris,28.0,Engineering,74000,4.0,3.0,Dhaka,2021-01-20,False
+1022,Jessica Martin,35.0,HR,86000,8.0,4.0,Dhaka,2019-08-15,True
+1025,Thomas Rodriguez,37.0,Engineering,50000,10.0,4.0,Sylhet,2018-03-12,True
+1026,Nancy Martinez,29.0,HR,73000,5.0,5.0,Dhaka,2021-04-22,False
+1027,Christopher Lee,33.0,Engineering,84000,7.0,0.0,Dhaka,2019-07-08,True
